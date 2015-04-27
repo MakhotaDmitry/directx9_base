@@ -1,0 +1,97 @@
+MaxActiveLights = 10
+MaxAnisotropy = 16
+MaxPointSize = 8192.000000
+MaxPrimitiveCount = 16777215
+MaxVertexIndex = 16777215
+MaxVertexBlendMatrices = 4
+MaxStreams = 16
+MaxStreamStride = 255
+MaxTextureWidth = 16384
+MaxTextureHeight = 16384
+MaxTextureBlendStages = 8
+MaxVShaderInstructionsExecuted = 65535
+MaxPShaderInstructionsExecuted = 65535
+VertexShaderVersion  = 3_0
+PixelShaderVersion  = 3_0
+HARDWARE_VERTEX_PROCESSING = true
+
+
+
+
+
+Surface Format = D3DFMT_R8G8B8
+CountModes = 0
+
+Surface Format = D3DFMT_A8R8G8B8
+CountModes = 0
+
+Surface Format = D3DFMT_X8R8G8B8
+CountModes = 13
+320x200 - 60 HZ
+320x240 - 60 HZ
+400x300 - 60 HZ
+512x384 - 60 HZ
+640x400 - 60 HZ
+640x480 - 60 HZ
+800x600 - 60 HZ
+1024x768 - 60 HZ
+1280x600 - 60 HZ
+1280x720 - 60 HZ
+1280x768 - 60 HZ
+1360x768 - 60 HZ
+1366x768 - 60 HZ
+
+Surface Format = D3DFMT_R5G6B5
+CountModes = 13
+320x200 - 60 HZ
+320x240 - 60 HZ
+400x300 - 60 HZ
+512x384 - 60 HZ
+640x400 - 60 HZ
+640x480 - 60 HZ
+800x600 - 60 HZ
+1024x768 - 60 HZ
+1280x600 - 60 HZ
+1280x720 - 60 HZ
+1280x768 - 60 HZ
+1360x768 - 60 HZ
+1366x768 - 60 HZ
+
+Surface Format = D3DFMT_X1R5G5B5
+CountModes = 0
+
+Surface Format = D3DFMT_A1R5G5B5
+CountModes = 0
+
+Surface Format = D3DFMT_A4R4G4B4
+CountModes = 0
+
+Surface Format = D3DFMT_R3G3B2
+CountModes = 0
+
+Surface Format = D3DFMT_A8
+CountModes = 0
+
+Surface Format = D3DFMT_A8R3G3B2
+CountModes = 0
+
+Surface Format = D3DFMT_X4R4G4B4
+CountModes = 0
+
+Surface Format = D3DFMT_A2B10G10R10
+CountModes = 0
+
+Surface Format = D3DFMT_A8B8G8R8
+CountModes = 0
+
+Surface Format = D3DFMT_X8B8G8R8
+CountModes = 0
+
+Surface Format = D3DFMT_G16R16
+CountModes = 0
+
+Surface Format = D3DFMT_A2R10G10B10
+CountModes = 0
+
+Surface Format = D3DFMT_A16B16G16R16
+CountModes = 0
